@@ -1,0 +1,14 @@
+.home__container {
+  row-gap: 2.5rem;
+}
+.home__title {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+.home__title span {
+  color: var(--primary-color);
+}
+.home__description {
+  margin-bottom: 2rem;
+}/*# sourceMappingURL=_home.css.map */

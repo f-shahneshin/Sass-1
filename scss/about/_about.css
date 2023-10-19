@@ -1,0 +1,15 @@
+.about__container {
+  row-gap: 2.5rem;
+}
+.about__title {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+  text-align: center;
+}
+.about__title span {
+  color: var(--primary-color);
+}
+.about__description {
+  margin-bottom: 2rem;
+}/*# sourceMappingURL=_about.css.map */

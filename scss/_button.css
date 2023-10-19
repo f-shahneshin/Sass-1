@@ -1,0 +1,25 @@
+.button {
+  display: inline-block;
+  background: var(--primary-color);
+  padding: 0.5rem 1.5rem;
+  border-radius: 3.5rem;
+  color: #fff;
+  transition: 1s;
+}
+.button:hover {
+  color: var(--primary-color);
+  background: #fff;
+  outline: 1px solid var(--primary-color);
+}
+.button__header {
+  display: none;
+}
+.button__link {
+  color: var(--primary-color);
+  background: #fff;
+  outline: 1px solid var(--primary-color);
+}
+.button__link:hover {
+  background: var(--primary-color);
+  color: #fff;
+}/*# sourceMappingURL=_button.css.map */

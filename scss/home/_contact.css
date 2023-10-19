@@ -1,0 +1,23 @@
+.section__title-center {
+  text-align: center;
+}
+
+.contact__container {
+  padding-bottom: 3rem;
+  column-gap: 3rem;
+}
+.contact__description {
+  text-align: center;
+  padding-bottom: 5rem;
+}
+.contact__info {
+  display: grid;
+  row-gap: 0.75rem;
+}
+.contact__address {
+  font-size: 1rem;
+  font-weight: bold;
+}
+.contact__information {
+  font-weight: 400;
+}/*# sourceMappingURL=_contact.css.map */

@@ -1,0 +1,14 @@
+.sopport__container {
+  row-gap: 2.5rem;
+}
+.sopport__title {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+.sopport__title span {
+  color: var(--primary-color);
+}
+.sopport__description {
+  margin-bottom: 2rem;
+}/*# sourceMappingURL=_sopport.css.map */
